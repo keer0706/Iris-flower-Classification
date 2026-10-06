@@ -193,17 +193,15 @@ Iris-Flower-Classification/
 │
 ├── Iris_Flower_Classification.ipynb
 ├── README.md
-│
-└── visualizations/
-    ├── scatter_sepal_length_vs_sepal_width.png
-    ├── scatter_petal_length_vs_petal_width.png
-    ├── hist_sepal_length.png
-    ├── hist_petal_length.png
-    ├── boxplot_sepal_width.png
-    ├── boxplot_petal_width.png
-    ├── boxplot_petal_length.png
-    ├── sepal_length_boxplot.png
-    └── heatmap.png
+├── scatter_sepal_length_vs_sepal_width.png
+├── scatter_petal_length_vs_petal_width.png
+├── hist_sepal_length.png
+├── hist_petal_length.png
+├── boxplot_sepal_width.png
+├── boxplot_petal_width.png
+├── boxplot_petal_length.png
+├── sepal_length_boxplot.png
+└── heatmap.png
 ```
 
 ## How to Run
